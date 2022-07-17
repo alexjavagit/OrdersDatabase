@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 public class Main {
     static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/my_db?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
-    static final String DB_USER = "bestuser";
-    static final String DB_PASSWORD = "Delusion77";
+    static final String DB_USER = "your_user";
+    static final String DB_PASSWORD = "your_passwd";
 
     static Connection conn;
 
